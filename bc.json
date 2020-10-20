@@ -144,7 +144,7 @@
         {
             "slug": "02.3-loop-from-the-half-to-the-end",
             "title": "02.3-loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/02.3-loop-from-the-half-to-the-end",
             "translations": [
                 "es",
