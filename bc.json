@@ -177,7 +177,7 @@
         {
             "slug": "03-flip_list",
             "title": "03-flip_list",
-            "done": false,
+            "done": true,
             "path": "exercises/03-flip_list",
             "translations": [
                 "es",
