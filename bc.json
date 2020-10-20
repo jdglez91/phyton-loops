@@ -188,7 +188,7 @@
         {
             "slug": "04-mixed_list",
             "title": "04-mixed_list",
-            "done": false,
+            "done": true,
             "path": "exercises/04-mixed_list",
             "translations": [
                 "es",
