@@ -210,7 +210,7 @@
         {
             "slug": "05-Sum_all_items",
             "title": "05-Sum_all_items",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Sum_all_items",
             "translations": [
                 "es",
@@ -221,7 +221,7 @@
         {
             "slug": "05.1-sum_odd_items",
             "title": "05.1-sum_odd_items",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-sum_odd_items",
             "translations": [
                 "es",
@@ -232,7 +232,7 @@
         {
             "slug": "06-forEach_loop",
             "title": "06-forEach_loop",
-            "done": false,
+            "done": true,
             "path": "exercises/06-forEach_loop",
             "translations": [
                 "es",
