@@ -166,7 +166,7 @@
         {
             "slug": "02.5-Finding_wally",
             "title": "02.5-Finding_wally",
-            "done": false,
+            "done": true,
             "path": "exercises/02.5-Finding_wally",
             "translations": [
                 "es",
