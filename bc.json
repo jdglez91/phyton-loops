@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ff5ea23e-4cb5-49d5-8840-da12ef192f70.ws-us02.gitpod.io",
+    "address": "https://e582392a-8af1-4a45-84be-c4910e9fa8c6.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -462,7 +462,7 @@
         {
             "slug": "13.3-Filter_list_strings",
             "title": "13.3-Filter_list_strings",
-            "done": false,
+            "done": true,
             "path": "exercises/13.3-Filter_list_strings",
             "translations": [
                 "es",
