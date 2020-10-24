@@ -494,7 +494,7 @@
         {
             "slug": "14.2-letter_counter",
             "title": "14.2-letter_counter",
-            "done": false,
+            "done": true,
             "path": "exercises/14.2-letter_counter",
             "translations": [
                 "es",
